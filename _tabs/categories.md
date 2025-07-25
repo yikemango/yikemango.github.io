@@ -1,5 +1,6 @@
 ---
 layout: categories
-icon: fas fa-stream
+title: 分類
+icon: fas fa-folder-open
 order: 1
 ---

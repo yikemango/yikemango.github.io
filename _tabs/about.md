@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: 關於我
+icon: fas fa-user
+order: 3
 ---
+嗨，我是 Mango，一位正在邁向自由工作的內容創作者 🍋  
+目前專注於 SEO 筆記與傳播觀點的輸出，  
+歡迎來到我的數位練功基地，一起慢慢練功、慢慢變強！
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+👉 你可以透過這裡了解我的網站架構與創作動機。
+👉 更多個人介紹、經歷與聯絡方式也會陸續補上！

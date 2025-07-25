@@ -1,0 +1,28 @@
+- type: about
+  title: 嗨，我是 Mango！
+  image: /assets/img/avatar.png
+  text: |
+    從 SEO 到傳播學觀點，  
+    我用文字記錄每一次的練習與思考，  
+    慢慢走在自由工作的路上。  
+
+    歡迎你一起加入這個數位基地！
+
+- type: entries
+  title: 文章列表
+  entries:
+    - title: SEO 筆記本
+      url: /categories/seo/
+      description: 關於 SEO 技術學習與實作的紀錄。
+
+    - title: 傳播學筆記本
+      url: /categories/communication/
+      description: 從影視與生活中挖掘的傳播觀察。
+
+- type: links
+  title: 其他平台
+  links:
+    - name: Medium
+      url: https://medium.com/@mangochen.media
+    - name: Instagram
+      url: https://www.instagram.com/yikemango/
