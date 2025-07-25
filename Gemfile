@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy"
+gem "jekyll-include-cache"
 
 gem "jekyll-seo-tag"
 gem "html-proofer", "~> 5.0", group: :test

@@ -1,6 +1,9 @@
 # The Site Configuration
 plugins:
   - jekyll-seo-tag
+plugins:
+  - jekyll-include-cache
+
 # 加個註解測試
 # Import the theme
 
