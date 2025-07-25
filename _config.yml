@@ -1,5 +1,7 @@
 # The Site Configuration
-
+plugins:
+  - jekyll-seo-tag
+# 加個註解測試
 # Import the theme
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
