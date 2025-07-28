@@ -2,10 +2,8 @@
 ---
 
 /* prettier-ignore */
-@use 'main
-{%- if jekyll.environment == 'production' -%}
-  .bundle
-{%- endif -%}
-';
 
 /* append your custom style below */
+body {
+  /* 空白樣式區塊讓 Sass 編譯器開心 */
+}
