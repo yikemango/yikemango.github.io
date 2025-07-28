@@ -3,7 +3,7 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - master  # ← 你目前使用的是 master 分支
+      - main
 
 permissions:
   contents: read
