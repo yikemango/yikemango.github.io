@@ -1,0 +1,23 @@
+
+
+{
+  "name": "yikemango",
+  "short_name": "yikemango",
+  "description": "從 SEO 到傳播學觀點，我用文字記錄每一次的練習與思考，慢慢走在自由工作的路上。歡迎你一起加入這個數位基地！",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+
