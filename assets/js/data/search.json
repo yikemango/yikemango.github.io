@@ -1,5 +1,13 @@
 [
   {
+    "title": "最簡單的 SEO 文章寫作入門指南：三步驟讓新手立刻上手",
+    "url": "/posts/seo-guide/",
+    "categories": "SEO 筆記本",
+    "tags": "SEO, 內容行銷, 寫作技巧",
+    "date": "2025-07-28 14:00:00 +0800",
+    "content": "如果你也想寫出在 Google 能被找到的文章，那你一定不能錯過這篇三步驟教學。    第一步：找到主題關鍵字  關鍵字猶如北極星般指引方向， 在寫文章前，你需要先確定使用者通常會搜尋什麼關鍵字， 並以此規劃文本的內容與架構。    第二步：優化文章標題与小標題  標題是讀者看到的第一句話， 建議使用包含主關鍵字的標題，再加上吸睛詞句， 可增加點閱率與吸引力。    第三步：調整段落與排版格..."
+  },
+  {
     "title": "Customize the Favicon",
     "url": "/posts/customize-the-favicon/",
     "categories": "Blogging, Tutorial",

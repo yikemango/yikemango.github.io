@@ -4,7 +4,7 @@
   <id>/</id>
   <title>yikemango</title>
   <subtitle>從 SEO 到傳播學觀點，我用文字記錄每一次的練習與思考，慢慢走在自由工作的路上。歡迎你一起加入這個數位基地！</subtitle>
-  <updated>2025-07-28T16:06:24+08:00</updated>
+  <updated>2025-07-28T16:27:19+08:00</updated>
   <author>
     <name>Mango Chen</name>
     <uri>/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>最簡單的 SEO 文章寫作入門指南：三步驟讓新手立刻上手</title>
+    <link href="/posts/seo-guide/" rel="alternate" type="text/html" title="最簡單的 SEO 文章寫作入門指南：三步驟讓新手立刻上手" />
+    <published>2025-07-28T14:00:00+08:00</published>
+  
+    <updated>2025-07-28T14:00:00+08:00</updated>
+  
+    <id>/posts/seo-guide/</id>
+    <content type="text/html" src="/posts/seo-guide/" />
+    <author>
+      <name>Mango Chen</name>
+    </author>
+
+  
+    
+    <category term="SEO 筆記本" />
+    
+  
+
+  <summary>如果你也想寫出在 Google 能被找到的文章，那你一定不能錯過這篇三步驟教學。    第一步：找到主題關鍵字  關鍵字猶如北極星般指引方向， 在寫文章前，你需要先確定使用者通常會搜尋什麼關鍵字， 並以此規劃文本的內容與架構。    第二步：優化文章標題与小標題  標題是讀者看到的第一句話， 建議使用包含主關鍵字的標題，再加上吸睛詞句， 可增加點閱率與吸引力。    第三步：調整段落與排版格式  適當使用小標題（##、###） 以及條列、段落分隔，讓內容更易讀， 對 SEO 來說也更友善，有助於提升可讀性。       💡 寫作小提醒：段落之間務必空行、善用粗體與引用標註重點。   再來可以舉例或補充細節（例如搜尋量工具、標題公式、常見錯誤案例）。</summary>
+
+  </entry>
 
   
   <entry>
