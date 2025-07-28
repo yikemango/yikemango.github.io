@@ -1,10 +1,12 @@
 const swconf = {
   
-    cacheName: 'chirpy-1753693428',resources: [
+    cacheName: 'chirpy-1753693989',resources: [
       '/assets/css/.css',
       '/',
       
         '/categories/',
+      
+        '/home/',
       
         '/tags/',
       
